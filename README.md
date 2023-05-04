@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Machine Learning and React-native.
+I'm currently learning NextJS.
 
 
 ## 🌐 Socials:
