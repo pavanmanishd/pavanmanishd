@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning NextJS.
+I'm currently learning DSA.
 
 
 ## 🌐 Socials:
